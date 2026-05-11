@@ -1,0 +1,58 @@
+{
+  "business": {
+    "name": "Bella Esencia",
+    "tagline": "Tu refugio de bienestar consciente en Valencia.",
+    "description": "Bella Esencia es tu santuario de belleza en el corazón de Valencia, un lugar para parar y volver a ti. Nos dedicamos al cuidado consciente y personalizado, utilizando alta cosmética natural para equilibrar tu cuerpo y calmar tu mente.",
+    "phone": "+34 622 08 34 34",
+    "address": "Gran Via de Ramón y Cajal, 34, Extramurs, 46007 Valencia, España",
+    "email": "contacto@bellaesenciavalencia.es",
+    "rating": 5,
+    "reviewCount": 49,
+    "hours": ["Monday: 10:00 AM – 8:00 PM","Tuesday: 10:00 AM – 8:00 PM","Wednesday: 10:00 AM – 8:00 PM","Thursday: 10:00 AM – 8:00 PM","Friday: 10:00 AM – 8:00 PM","Saturday: 10:00 AM – 8:00 PM","Sunday: Closed"]
+  },
+  "theme": {
+    "primary": "#D4BBA6",
+    "secondary": "#3D3D3D",
+    "accent": "#C5A47E",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "Reconecta contigo. Redescubre tu belleza auténtica.",
+    "subheadline": "Disfruta de tratamientos de estética consciente y personalizados, diseñados para calmar tu mente y nutrir tu piel sin prisas.",
+    "cta1": { "text": "Reserva tu Momento", "href": "#contact" },
+    "cta2": { "text": "Nuestros Rituales", "href": "#services" },
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJTRh2d2NPYA0RrT6Vf6_DTUU/photos/Ab43m-sPb_i9mMeX9Iq4i4UxBcvcmpQHCbkK2ulS8tTtqFlzpIFRSBbKZBSGmHCGRj62koq6ZRSLqinDdWYehSpELToo6EJjDA9EobBlhaAuCLJdGqA3yyfpLwDs63Hm1Pij-KgKqKiSymqL6v47vgdDuCSGP-hP8iIPIPiU04aDpcCvgbz3V3kykQnujWfYnMTMIno0jnZ6z62868DHMfd7keldS0OVPJ0pzAQx0ASzGOaxXLCfC1MUJdCHtFWfQWqmwpU94TxdTvot_-TWHEFhBNicj796lIz3Tj8Q3i4c4_TP2Q/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "services": [
+    { "icon": "💆‍♀️", "title": "Tratamientos Faciales Personalizados", "description": "Escuchamos tu piel. Diseñamos un tratamiento facial único para ti con alta cosmética natural, devolviéndole su luminosidad y equilibrio." },
+    { "icon": "🌿", "title": "Masajes Terapéuticos y Relajantes", "description": "Libera tensiones y reconecta con tu cuerpo. Nuestras técnicas expertas te transportarán a un estado de profunda calma y bienestar." },
+    { "icon": "✨", "title": "Rituales Corporales Holísticos", "description": "Una experiencia sensorial completa para nutrir cuerpo y mente. Cuidamos cada detalle para que te sientas renovada por dentro y por fuera." },
+    { "icon": "🤰", "title": "Cuidado Especial para Embarazadas", "description": "Te acompañamos en esta etapa tan especial con masajes y tratamientos adaptados, seguros y reconfortantes para ti y tu bebé." }
+  ],
+  "about": {
+    "title": "Un Cuidado Diferente, Un Espacio Para Ti",
+    "text": "Bella Esencia nace del deseo de ofrecer un cuidado alejado de la prisa y de los tratamientos estandarizados. Entendemos la estética como un espacio de escucha y respeto a tu cuerpo, tu ritmo y tus necesidades reales en cada momento.\n\nNo creemos en soluciones rápidas, sino en acompañar procesos de bienestar de forma consciente. Por eso trabajamos exclusivamente con alta cosmética natural y mineral, combinada con técnicas que equilibran cuerpo y mente. Cada visita es una experiencia serena que calma, abraza y despierta los sentidos.",
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJTRh2d2NPYA0RrT6Vf6_DTUU/photos/Ab43m-sg86eubss93fSR0iigrXviUD8kOxJqmj49Kbfe7o5P3TW71ESCkQTmW9gUxhUMEmFarrqyw1Hix6lrmJGRjiG53fa3u7-ayTcHMGIO7cXzgchjI-vV1WgRPbAGJhnR-92LAbUYUoFbBk8MVQMqJNNX4zZd5j0IN6yrR--OpDuy9BIgRPCz_8MO3OfHniG-I8j9yuZxwrccYp4HRjA9KV-WK46-jWtj8i-_uTd9S1VKEFNkPfN70jZ-dKxWqT9_zzp5J-S2edY7yDJF5Y75P2OtFfsiMTOsudrC1WLi9c-CVQ/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "gallery": [
+    { "url": "https://places.googleapis.com/v1/places/ChIJTRh2d2NPYA0RrT6Vf6_DTUU/photos/Ab43m-t06lkApAN5a7q7zNtAoI7qvWgH4CDxsQgggroFxlZ6YeC0XlT4Ebb2cZ5YGkwpiFBid5i1gr3aGKmEoiGSbx1yXBTg0F9-ARrnao_KQpCQv0OvY2NVlG9ZkE3jGIIQjzsp1CgPOtsGucWLpltsLO-505Aaec7wwdxWUB4D7Ip-YblJrb-EiVeWg9cjAXz48AYUd03RfSqz0bN3hoxcfVLCdCRaCjpCEOn2vSoi8kIAAXa3oBe2O4tUTojhpiaBH04guYKjCjF0tmtrVaUzjfnfvnx6aYepkiSwe5Cy1vu01-1iVPMxzi--ejDtbTP8hGg6uacQNn4k5Zo3UuaTCilPDMfbmBFezDV38qnSVY7QgE25FcYnSXyNtyvaNHTFM_5DUdArkfKg3K2wILDNnaPMnmxgcolUTHIW1AgwYVjC1g/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Detalle de nuestros productos de alta cosmética natural sobre una camilla" },
+    { "url": "https://places.googleapis.com/v1/places/ChIJTRh2d2NPYA0RrT6Vf6_DTUU/photos/Ab43m-vBl0ln8Zvvku7GLoK9f1P6JS9DRam2-4xbwrB2mXT3dO6TgOIZmKBRXQf9QaW4qCS3PLBXDtKE-yLuEry6JdOyKM4GtiIoMiVdrCKbeL8ocIvGT--5gnw7vVUY1CX5Vzqyfq-qvx9fnQj1qwdZTZOUlJRQLS5jAzX_sG45_oD_QKteLvQVbw9CcmJ2Gf3QOCFGtr17BLsKqqlZZiTH6tyoF-uygRVWH9LHi24aAG3qfxrlZ5vzK9qWvEa0uzK9I-vBcEzdSGsDaobXBetRdBFScGdbmClM76hvRlfWVixER5Btbkvo3dYBSyFMazHDK4vBSRD9LwCIcV6Pb7NCD7z4QolCrGQyGVxEZWYkw1HDs4l7onnMgaZzloo8dkMiqO0CNkByYrW8Uxtfi0qQisurfqsAH8j4Q_WKBcG49E5eIqze/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Cabina de tratamiento íntima y profesional en Bella Esencia" },
+    { "url": "https://places.googleapis.com/v1/places/ChIJTRh2d2NPYA0RrT6Vf6_DTUU/photos/Ab43m-u6gNGAphkw3vEbdeQI_YLBavZdFOnYkr8mxTMbpwaUOgWcj3bK2MyvC4fKBivh3T6HHsPwVtT7lvuqy8Q5cfFihbymV1lggnO4FGb0LPnJpQBQpj9qE3_hryFUDx5imNSjv5Cn0als2B3thme_MMCH3NPddK4je26Dl_m7NLpbx1L4h8j8ap6ljHMUOLUScArJ8Ehi6B5hQ5fFfTlpK9y3LjPpZjmPUR3h8-sqyCZHR_9rQ5g6P8d3rzzTtD4CKDEwhDBIRFbVwKHHTrWOLUc5yjmJjeW4HSuz_QREOienAexIkHQ0uqkOuVMX1_Jxm49BFbdRHCI0Pv2wuuE8fRM2tuxkOfhe0MKcGrJsXGbKkt5jI9_Ms7hl-_cyFHD7XivpAg_4AV-urf_Vn38_W43FstFy4faYo0LLfFo0_s8/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Espacio de tratamiento preparado para un ritual de bienestar" },
+    { "url": "https://places.googleapis.com/v1/places/ChIJTRh2d2NPYA0RrT6Vf6_DTUU/photos/Ab43m-vZbkrsrqU_E6rKLlUxUchUeUmlUJG6HDcVxUE0Y2x1YuGFJz1whZvPZ90ZieI8R4rnD1dajhuunmlpZmsfMomXmcweF3xA5_Td5vD9O63WuuN6nb0Oa7pTRakVn6iQzOGDT8AnyQJhxNbQyc0ErbL6vaL_wRkPV6AonV-whsJ0eOgRMJH2ittLsUthpdwa5MIpDvcxHAx4jiN_6lTrWQPPjVhMJjDtlUpqgwNfsNBcZhHg6LX-2gQxEOIJO62H-9OG_fiBHSqCssVmHK2qyyzguxZ9a8sYfDuUUUH6lxFZUlB9cr2cX1df7oUwOokJZMdZfk6p5h6VENUPxy4C4ZIWLqhPZS2ofyc6FOW4MMKOEYlsMPQZyZacxaGS2N1p0yJkKcSvv9-zG5DBAcF5C-88ckz1LIFvVv6EQNipReY/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Ambiente sereno y acogedor de nuestro centro de estética en Valencia" }
+  ],
+  "testimonials": [
+    { "name": "Cristina López", "stars": 5, "text": "El trato es increíble y el masaje fue pura magia. Sales de allí flotando. Repetiré sin dudarlo, es mi pequeño oasis en la ciudad." },
+    { "name": "Silvia García", "stars": 5, "text": "Grandes profesionales y encantadoras. He notado una mejoría increíble en mi piel desde que vengo. ¡Recomendable al 100%!" },
+    { "name": "Ana Martínez", "stars": 4, "text": "Un lugar muy bonito y un facial estupendo. Me habría gustado un poco más de tiempo en el masaje de brazos, ¡pero la piel quedó genial!" }
+  ],
+  "contact": {
+    "title": "¿Lista para tu momento de calma?",
+    "subtitle": "Reserva tu cita por teléfono o WhatsApp y déjanos cuidarte. Te esperamos en nuestro refugio de bienestar en Valencia.",
+    "whatsappNumber": "+34 622 08 34 34",
+    "showMap": true,
+    "mapQuery": "Bella Esencia Gran Via de Ramón y Cajal, 34, Extramurs, 46007 Valencia, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Bella Esencia"
+  }
+}
